@@ -51,10 +51,10 @@
 - `for in` loop
 - Non-native iterative methods?
 
-###Classes
+ ###Classes
 - What is the point of classes?
-- How are they used in javascript?
+- How are they used in javascript? 
 
-###References vs Values
+ ###References vs Values
 - What are arrays and objects?
-- What to be aware of when dealing with references
+- What to be aware of when dealing with references 

@@ -5,8 +5,8 @@ var me = {
   coolness: 0,
   friend: {
     name: "Joel",
-    age: 27
-    coolness: 4
+    age: 27,
+    coolness: 4,
     language: "english",
   }
 };

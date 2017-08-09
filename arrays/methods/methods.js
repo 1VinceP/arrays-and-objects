@@ -1,6 +1,7 @@
 /*Add 5 at the end of the following array*/
 var addArr = [1,2,3,4];
 
+
 /*Remove the last value of the following array*/
 var removeArr = [1,2,3,4,5];
 
